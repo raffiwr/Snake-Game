@@ -1,4 +1,7 @@
-# Snake-Game
+
+## Snake Game 
+
+![snakescreenshot](https://github.com/raffiwr/Snake-Game/assets/145559021/937616c3-0482-4a75-ac3a-58820979cb2c)
 
 **A simple version of snake made using Unity**
 
